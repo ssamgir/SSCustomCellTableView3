@@ -32,6 +32,9 @@
 		E77594F61D71F1FF00ED38F9 /* thai_shrimp_cake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E77594E51D71F1FF00ED38F9 /* thai_shrimp_cake.jpg */; };
 		E77594F71D71F1FF00ED38F9 /* vegetable_curry.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E77594E61D71F1FF00ED38F9 /* vegetable_curry.jpg */; };
 		E77594F81D71F1FF00ED38F9 /* white_chocolate_donut.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E77594E71D71F1FF00ED38F9 /* white_chocolate_donut.jpg */; };
+		E7A692101D72C7F7004B1D1B /* images (3).jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E7A6920F1D72C7F7004B1D1B /* images (3).jpeg */; };
+		E7A692121D72CD46004B1D1B /* apple_wwdc_logo_colorful_104365_3840x2160.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E7A692111D72CD46004B1D1B /* apple_wwdc_logo_colorful_104365_3840x2160.jpg */; };
+		E7A692141D72D0C6004B1D1B /* Screen Shot 2016-08-28 at 1.24.57 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = E7A692131D72D0C6004B1D1B /* Screen Shot 2016-08-28 at 1.24.57 PM.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -85,6 +88,9 @@
 		E77594E51D71F1FF00ED38F9 /* thai_shrimp_cake.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = thai_shrimp_cake.jpg; sourceTree = "<group>"; };
 		E77594E61D71F1FF00ED38F9 /* vegetable_curry.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = vegetable_curry.jpg; sourceTree = "<group>"; };
 		E77594E71D71F1FF00ED38F9 /* white_chocolate_donut.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = white_chocolate_donut.jpg; sourceTree = "<group>"; };
+		E7A6920F1D72C7F7004B1D1B /* images (3).jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "images (3).jpeg"; sourceTree = "<group>"; };
+		E7A692111D72CD46004B1D1B /* apple_wwdc_logo_colorful_104365_3840x2160.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = apple_wwdc_logo_colorful_104365_3840x2160.jpg; sourceTree = "<group>"; };
+		E7A692131D72D0C6004B1D1B /* Screen Shot 2016-08-28 at 1.24.57 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2016-08-28 at 1.24.57 PM.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -146,10 +152,13 @@
 				E77594DE1D71F1FF00ED38F9 /* hamburger.jpg */,
 				E77594DF1D71F1FF00ED38F9 /* instant_noodle_with_egg.jpg */,
 				E77594E01D71F1FF00ED38F9 /* japanese_noodle_with_pork.jpg */,
+				E7A692111D72CD46004B1D1B /* apple_wwdc_logo_colorful_104365_3840x2160.jpg */,
 				E77594E11D71F1FF00ED38F9 /* mushroom_risotto.jpg */,
+				E7A692131D72D0C6004B1D1B /* Screen Shot 2016-08-28 at 1.24.57 PM.png */,
 				E77594E21D71F1FF00ED38F9 /* noodle_with_bbq_pork.jpg */,
 				E77594E31D71F1FF00ED38F9 /* photo-frame.png */,
 				E77594E41D71F1FF00ED38F9 /* starbucks_coffee.jpg */,
+				E7A6920F1D72C7F7004B1D1B /* images (3).jpeg */,
 				E77594E51D71F1FF00ED38F9 /* thai_shrimp_cake.jpg */,
 				E77594E61D71F1FF00ED38F9 /* vegetable_curry.jpg */,
 				E77594E71D71F1FF00ED38F9 /* white_chocolate_donut.jpg */,
@@ -302,11 +311,14 @@
 				E77594F61D71F1FF00ED38F9 /* thai_shrimp_cake.jpg in Resources */,
 				E77594F41D71F1FF00ED38F9 /* photo-frame.png in Resources */,
 				E77594F01D71F1FF00ED38F9 /* instant_noodle_with_egg.jpg in Resources */,
+				E7A692141D72D0C6004B1D1B /* Screen Shot 2016-08-28 at 1.24.57 PM.png in Resources */,
 				E77594EF1D71F1FF00ED38F9 /* hamburger.jpg in Resources */,
 				E77594F31D71F1FF00ED38F9 /* noodle_with_bbq_pork.jpg in Resources */,
 				E77594F51D71F1FF00ED38F9 /* starbucks_coffee.jpg in Resources */,
+				E7A692101D72C7F7004B1D1B /* images (3).jpeg in Resources */,
 				E77594F71D71F1FF00ED38F9 /* vegetable_curry.jpg in Resources */,
 				E77594E81D71F1FF00ED38F9 /* angry_birds_cake.jpg in Resources */,
+				E7A692121D72CD46004B1D1B /* apple_wwdc_logo_colorful_104365_3840x2160.jpg in Resources */,
 				E77594AF1D71D69B00ED38F9 /* Main.storyboard in Resources */,
 				E77594ED1D71F1FF00ED38F9 /* ham_and_cheese_panini.jpg in Resources */,
 				E77594EC1D71F1FF00ED38F9 /* green_tea.jpg in Resources */,
@@ -564,6 +576,7 @@
 				E77594D01D71D69B00ED38F9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E77594D11D71D69B00ED38F9 /* Build configuration list for PBXNativeTarget "SSUICollectionViewTests" */ = {
 			isa = XCConfigurationList;
@@ -572,6 +585,7 @@
 				E77594D31D71D69B00ED38F9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E77594D41D71D69B00ED38F9 /* Build configuration list for PBXNativeTarget "SSUICollectionViewUITests" */ = {
 			isa = XCConfigurationList;
@@ -580,6 +594,7 @@
 				E77594D61D71D69B00ED38F9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

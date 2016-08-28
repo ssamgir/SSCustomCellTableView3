@@ -11,7 +11,7 @@
 @interface ViewController : UIViewController<UITableViewDelegate, UITableViewDataSource>
 
 {
-    NSArray *recipePhotos;
+    NSMutableArray *recipePhotos;
 }
 
 
